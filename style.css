@@ -393,3 +393,19 @@ h3 {
 .resume .func .interests-items div span {
   display: block;
 }
+.resume .project ul li span{
+  font-size: 20px;
+}
+.resume .project ul li  small{
+  line-height: 30px;
+}
+.resume .project ul li span:hover{
+  color: #e07a5f;
+}
+.resume .base .profile .info .name{
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out ;
+}
+.resume .base .profile .info .name:hover{
+  color: black;
+  box-shadow: inset 300px 0 0 0 white;
+}

@@ -401,6 +401,7 @@ h3 {
 }
 .resume .project ul li span:hover{
   color: #e07a5f;
+  transition-duration: 0.3s
 }
 .resume .base .profile .info .name{
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out ;
